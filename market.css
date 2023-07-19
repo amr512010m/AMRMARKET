@@ -326,3 +326,54 @@ mobiles.html{
 }
 h1{text-align: center;}
 h1.alert, .hello{margin-right: 423px;}
+h4.home ,a.cat1{
+    margin: -74px;
+}
+a.cat1{margin-right: 24px;}
+a.png{margin-left: 45px;}
+div.cont{text-align: center;
+margin: auto;
+justify-content: center;.
+    color: brown;
+    }
+div.cont h4{
+    border: 2px solid blue ;
+    border-left-color: blueviolet;
+    border-right-color: aqua;
+    border-radius: 8px;
+    padding-left:-45px;
+    padding-right:-45px; 
+    
+}
+a.contx{color: black; font-size: 22px;}
+div.c2{
+    width: 434px;
+    margin-left: 256px;
+    background-color:transparent;
+    border: 2px solid;
+    border-bottom-color: aqua;
+    border-left-color: aqua;
+     border-top-color:blueviolet;
+    border-right-color:blueviolet;
+    border-radius: 8px;
+  
+}
+div.c2 a{
+    color: brown;;
+    font-family: sans-serif;
+    
+}
+h4.h5{margin-left: 9px;}
+div.list2 {margin-left:997px;
+    width: 90%;
+    background-color: burlywood;
+color: blue;
+height: 156px;
+display: flex;
+flex-direction: column;
+outline-width: inherit;}
+list2 a{margin-bottom: 7px; width: 99px;}
+div.nav1 a{color: white;}
+input.cabtn{margin-left: 488px;}
+h1.versx{color: brown;
+margin-top: 94px;}
