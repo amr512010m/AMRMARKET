@@ -17,6 +17,7 @@ div.nav img {
     
     
 }
+*{font-size:27px;}
 input{
     background-color: transparent;
     border-color:blue ;
@@ -166,6 +167,7 @@ h5.in{
 }
 h5.out{
     color:red;
+    margin-left: 7px;
 }
 div.add{
     display: flex;
@@ -304,7 +306,7 @@ div.detailsx p{
 }
 
 *{
-   
+  font-size: 18px; 
 }
 h2.e3{
  
@@ -321,13 +323,11 @@ h4.ps{
     text-decoration: line-through;
     text-decoration-color: red;
 }
-mobiles.html{
-    text-align: center
-}
+
 h1{text-align: center;}
 h1.alert, .hello{margin-right: 423px;}
 h4.home ,a.cat1{
-    margin: -74px;
+    margin: -54px;
 }
 a.cat1{margin-right: 24px;}
 a.png{margin-left: 45px;}
@@ -356,11 +356,14 @@ div.c2{
      border-top-color:blueviolet;
     border-right-color:blueviolet;
     border-radius: 8px;
-  
+    margin-bottom: 134px;
 }
 div.c2 a{
     color: brown;;
     font-family: sans-serif;
+font-size: 40px;
+    line-height: 56px;
+    
     
 }
 h4.h5{margin-left: 9px;}
@@ -377,3 +380,10 @@ div.nav1 a{color: white;}
 input.cabtn{margin-left: 488px;}
 h1.versx{color: brown;
 margin-top: 94px;}
+h4.h2{margin-left: 36px;
+margin-right: 45px;}
+h4.home,a.cat1{margin: 9px;}
+div.htextz{height: 325px;}
+div.c3{height: 490px;}
+div.c3 p{margin-left: 14px;}
+h5.in{margin-left: 7px;}
