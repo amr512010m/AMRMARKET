@@ -1,0 +1,389 @@
+*{
+   font-family: arial;
+ }
+div.m{
+    background-image: url('blue.jpg');
+  background-size: cover;
+    height: 3299px;
+}
+div.nav{
+    background-color: black;
+   justify-content: center;
+    color: white;
+    display: flex;
+}
+div.nav img {
+    width=6%;
+    
+    
+}
+*{font-size:27px;}
+input{
+    background-color: transparent;
+    border-color:blue ;
+    border-radius: 9px;
+    color: blue;
+   
+}
+div.privacy{
+    display: flex;
+    margin-left: 456px;
+}
+h1.alert{
+    color:darkblue; 
+    margin-left: 434px;
+}
+div.joinform{
+    margin-left: 456px;
+    border: 2px solid black;
+    border-radius: 4px;
+    justify-content: center;
+    padding-left: 19px;
+    padding-left: -123px;
+    width: 234px;
+    padding: 10px;
+    padding-bottom: 29px;
+    
+}
+a.joinf{
+    color:brown;
+    background-color: aqua;
+    border:2px solid green;
+    
+    border-radius: 7px;
+    padding: 11px;
+    margin-top: 8px;
+    margin-left: 499px;
+    padding-top: -4px;
+}
+h2.info{
+   margin-left: 468px; 
+    color:brown;
+}
+div.butt2{
+   color:brown;
+    background-color: aqua;
+    border:2px solid green;
+    width: 49px;
+    border-radius: 7px;
+    padding: 11px;
+    margin-top: 18px;
+    margin-left: 499px;
+    padding-top: -4px 
+}
+div.nav1{
+    background-color: black;
+    justify-content: space-around;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+div.nav{
+    justify-content: space-around;
+    align-items: center;
+    
+}
+input.search{
+   padding: -9px; 
+    
+}
+
+div.cart{
+    display: flex;
+    
+}
+
+div.navd{
+    
+ background-color: black;
+  
+    color: white;
+    display: flex;
+justify-content: center;
+}
+div.nav2{
+ background-color: cornflowerblue;
+ display: flex;
+    justify-content: space-around;
+    
+}
+div.deal{
+    width: 98%;
+    height:299px;
+    background-color: white;
+    background-image: url('t9si9p6x.png');
+    background-size: contain;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 12px;
+}
+a.mr{
+   color: white;
+}
+h3.carth3{
+   margin-left: 456px;
+    color: blueviolet;
+}
+div.cs,div.css{
+    display: flex;
+    
+}
+div.c1{
+    background-color: white;
+    width: 30%;
+    border-radius: 9px;
+    height: 245px;
+    margin-left: 12px;
+    margin-bottom: 22px;
+    margin: 40px;
+    padding-left: 40px;
+}
+div.catogries{
+    margin-left: 115px;
+    margin-top: 300px;
+}
+div.c2{
+    background-color: white;
+    display: block;
+    width: 90%;
+    margin-top: -50px;
+}
+div.c3{
+     width: 50%;
+   background-color: white;
+    display: block;
+    height: 360px;
+    justify-content: flex-start;
+    margin-left: -100px;
+   
+    
+}
+img.uu{
+    padding-left: 6px;
+}
+h5.in{
+    color: greenyellow;
+}
+h5.out{
+    color:red;
+    margin-left: 7px;
+}
+div.add{
+    display: flex;
+}
+input.type{
+    background-color: beige;
+  height: 12px;
+    width: 32px;
+    border-radius: 5px;
+}
+h2.e3{
+   margin-left: 470px;
+    color:chocolate;
+    
+}
+p.e4{
+  color: blue;
+    margin-left: 456px;
+    
+}
+button.cartbu{
+    
+    height: 48px;
+    width:99px;
+    background-color:transparent;
+    border-left-color: aqua;
+    border-right-color:blueviolet;
+    border-radius: 5px;
+    border-bottom-color: aqua;
+    border-top-color: blueviolet;
+    margin-left: 223px;
+}
+h4.pz{
+    color: gold;
+    margin-left: 50px;
+}
+
+div.first{
+    display: flex;
+    color: darkblue;
+}
+div.htextz{
+ justify-content: center;
+    
+    align-items: center;
+    color:indigo;
+    margin-left: 436px;
+    margin-top: 235px;
+    height: 234px;
+    width: 324px;
+    border:2px darkblue solid;
+    border-radius:7px; 
+    
+    
+}
+div.ourwe h3{
+    color:darkblue;
+}
+h1.about{
+    margin-left: 158px;
+    color: greenyellow;
+    width: 60%;
+}
+}
+h3.egypt{
+    
+    color: red;
+}
+div.ourwe a{
+    align-items: center;
+}
+a.cat1{
+    color: white;
+}
+div.nav2{
+    align-items: center;
+    color: black;
+}
+div.egy{
+    
+  color: red;
+}
+a.cat2{
+    color: black;
+}
+div.top{
+  margin-top: 1479px; 
+    margin-left: 267px;
+    background-color: aqua;
+    color: darkblue;
+   width: 700px;
+}
+div.qty3{
+  display: flex;  
+}
+input.qty2{
+    width: 8%;
+    height: 40px;
+}
+button.cartbu{
+display:block;
+}
+a.href{
+    color: white;
+}
+div.index1{
+    
+    color: white;
+    font-family: sans-serif;
+    margin-left: 459px;
+}
+div.index1 button{
+     height: 48px;
+    width:99px;
+    background-color:transparent;
+    border-left-color: aqua;
+    border-right-color:blueviolet;
+    border-radius: 5px;
+    border-bottom-color: aqua;
+    border-top-color: blueviolet;
+   
+}
+div.detailsx{
+    margin-left: 478px;
+    color: white;
+    margin-top: 345px;
+}
+div.detailsx h2.red{
+    color: red;
+}
+div.detailsx p{
+    font-family: inherit;
+    color: aqua;
+   
+    
+}
+
+*{
+   
+}
+h2.e3{
+ 
+    color:darkblue;
+    
+}
+p.e4{
+    color: blueviolet;
+   
+   
+   
+}
+h4.ps{
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
+
+h1{text-align: center;}
+h1.alert, .hello{margin-right: 423px;}
+h4.home ,a.cat1{
+    margin: -54px;
+}
+a.cat1{margin-right: 24px;}
+a.png{margin-left: 45px;}
+div.cont{text-align: center;
+margin: auto;
+justify-content: center;.
+    color: brown;
+    }
+div.cont h4{
+    border: 2px solid blue ;
+    border-left-color: blueviolet;
+    border-right-color: aqua;
+    border-radius: 8px;
+    padding-left:-45px;
+    padding-right:-45px; 
+    
+}
+a.contx{color: black; font-size: 22px;}
+div.c2{
+    width: 434px;
+    margin-left: 256px;
+    background-color:transparent;
+    border: 2px solid;
+    border-bottom-color: aqua;
+    border-left-color: aqua;
+     border-top-color:blueviolet;
+    border-right-color:blueviolet;
+    border-radius: 8px;
+    margin-bottom: 134px;
+}
+div.c2 a{
+    color: brown;;
+    font-family: sans-serif;
+font-size: 40px;
+    line-height: 56px;
+    
+    
+}
+h4.h5{margin-left: 9px;}
+div.list2 {margin-left:997px;
+    width: 90%;
+    background-color: burlywood;
+color: blue;
+height: 156px;
+display: flex;
+flex-direction: column;
+outline-width: inherit;}
+list2 a{margin-bottom: 7px; width: 99px;}
+div.nav1 a{color: white;}
+input.cabtn{margin-left: 488px;}
+h1.versx{color: brown;
+margin-top: 94px;}
+h4.h2{margin-left: 36px;
+margin-right: 45px;}
+h4.home,a.cat1{margin: 9px;}
+div.htextz{height: 325px;}
+div.c3{height: 490px;}
+div.c3 p{margin-left: 14px;}
+h5.in{margin-left: 7px;}

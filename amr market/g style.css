@@ -1,0 +1,441 @@
+*{
+    font-family: arial;
+   
+}
+body{
+    margin: 0px;
+    padding=0px;
+}
+div.m {
+  height: 702px;
+    background-image: url(background2.jpg.jpg);
+    background-repeat: no-repeat;
+  background-size: cover;
+    
+}
+div.nav{
+  display:flex;
+    
+    justify-content: center;
+    align-items: center;
+   background-color: rgba(0,0,0,0.6);
+
+}
+ div.nav a{
+    margin-left:91px;
+     color:aliceblue;
+  margin-left:
+}
+div.nav a.join{
+    padding:12px;
+    border-radius: 8px; 
+    background-color: transparent;
+    color: aqua;
+    border: 2px solid white;
+    
+}
+div.details{
+    color: white;
+    text-align: center;
+    margin-top: 199px;
+}
+  
+div.jnav{
+ background-color: black;
+}
+.footer{
+    color: white;
+    background-color: aqua;
+    text-align: center;
+    padding: 15px;
+    margin-top: 50px;
+}
+div.details button{
+   padding:12px;
+    border-radius: 8px; 
+    background-color: transparent;
+    color: gold;
+    border: 2px solid white;
+   
+    
+      
+    
+ 
+}
+div.text{
+    color:white;
+    text-align: center;
+    
+}
+hr.mainhr{
+  
+    width: 81%;
+    height: 2px;
+    
+}
+div.up{
+  background-color:black;
+ 
+   
+    text-align: center;
+  
+    height:400px;
+    color: azure;
+    display: flex;
+    
+   
+}
+div.up img{
+   
+    border-radius:130px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width:  130px;
+    height: 130px;
+    
+    
+}
+h3.title{
+   
+   background-color: black;
+   
+    color: white;
+    text-align: center;
+    
+}
+a{
+    color:pink;
+}
+div.item{
+    margin-left: 260px;
+}
+div.maing{
+    display: flex;
+    
+    justify-content: center;
+    width:50%;
+    margin: auto;
+    align-items: center;
+   
+       background-color: rgba(0,4,68,0.5);
+    color: azure;
+    padding: 50px;
+  
+    border-radius:10px;
+    line-height: 23px;
+    margin-top: 0px;
+  
+    
+    
+}
+div.maing button{
+     padding:12px;
+    border-radius: 8px; 
+    background-color:aqua;
+    color:white;
+    border: none;
+    
+      
+    
+}
+div.maing img{
+    margin-right: -76px;
+    border-radius: 10px;
+}
+div.back{
+    width: 100%;
+    background-color: black;
+    height: 570px;
+    
+}
+div.star{
+    display: flex;
+   
+}
+div.sft{
+  margin-left:330px;
+}
+div.rating{
+    
+    
+}
+div.price{
+    background-color: rgba(0,4,98,0.5);
+  width: 18%;
+    margin: 50px;
+    height: 15%;
+        border: 3px solid rgba(0,0,0,0.5);
+    border-radius: 8px;
+    color: white;
+}
+div.plans2{
+    background-color: rgba(0,4,98,0.5);
+  width: 18%;
+    margin: 50px;
+    height: 15%;
+        border: 3px solid rgba(0,0,0,0.5);
+    border-radius: 8px;
+    color: white;
+    justify-content: center;
+    margin-top: 50px;
+}
+div.plans3{
+    background-color: rgba(0,4,98,0.5);
+  width: 18%;
+    margin: 50px;
+    height: 15%;
+        border: 3px solid rgba(0,0,0,0.5);
+    border-radius: 8px;
+    color: white;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+div.headp{
+    background-color: rgba(0,7,49,0.5);
+   padding-top: -50px;
+    text-align: center;
+}
+div.colorp{
+    background-color: aqua;
+    text-align: center;
+    color: darkslateblue;
+}
+div.colorpx{
+    background-color:aquamarine; 
+    text-align: center;
+    color: darkslateblue;
+}
+div.allplans{
+ background-color: black;
+    width: 91%;
+    margin-top: -50px;
+    padding-top: 76px;
+    padding-bottom: -40px;
+    display: flex;
+    padding-left: 100px;
+    
+}
+div.price{
+    color: white;
+    text-align: center;
+   
+    margin-top: -40px;
+    padding-top: 20px;
+
+}
+div.restp button{
+   padding:12px;
+    border-radius: 8px; 
+    background-color: transparent;
+    color: gold;
+    border: 2px solid white;
+    margin-top:50px;
+    margin-left: 50px; 
+    padding-left: 10px;
+    
+}
+
+div.plans3 div.colorpx{
+ background-color:cornflowerblue;   
+    
+}
+div.rates{
+    width: 100%;
+        background-color: rgba(90,200,99,z);
+    margin-top: -35px;
+    height: 586px;
+    display: flex;
+}
+
+div.posts{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    justify-content: space-around;
+    align-items: center;
+    }
+div.post{
+    margin: 23px;
+    background-color:cornflowerblue;
+    color: azure;
+    border-radius: 8px;
+    height: 387px;
+    width:400px;
+}
+div.post1 div.image{
+    
+    
+    background-image: url('post1.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    height: 134px;
+    
+}
+div.post2 div.image{
+    
+    
+    background-image: url('post3.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    height: 134px;
+    
+}
+div.post3 div.image{
+    
+    
+    background-image: url('post3.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    height: 134px;
+    
+}
+div.post p,h4,h5{
+ padding-left: 10px;
+    padding-right: 10px;
+}
+div.post p{
+    font-size: 12px;
+}
+div.post p,div.post h5{
+    display: inline-block;
+}
+div.testis{
+   display: flex;
+    width: 50%;
+    margin: auto;
+    justify-content: space-around;
+    align-items: center; 
+    
+}
+div.testi{
+    background-color: black;
+    color: snow;
+    margin: 50px;
+    text-align: center;
+    border-radius: 8px;
+   
+}
+div.testi1 div.imgx{
+    
+    background-image: url('boss.png');
+    height: 81px;
+     background-image: url('boss.png');
+     background-size: cover;
+    background-position: center;
+    border: 2px solid black;
+}
+div.testi2 div.imgx{
+    
+    background-image: url('content-creator.png');
+    height: 81px;
+    
+     background-size: cover;
+    background-position: center;
+    border: 2px solid black;
+}
+div.testi div.imgx{
+    width:100px;
+    background-color: white;
+    height: 100px;
+    margin: auto;
+    border-radius: 100px;
+    margin-top: -50px;
+}
+div.test h1{
+    text-align: center;
+    color: orange;
+}
+div.test{
+    background-color: aquamarine;
+    margin-top: -34px;
+}
+div.postscontent h4.last,p.last{
+   
+    text-align: center;
+    color: coral;
+}
+div.up{
+    padding-top: 87px;
+}
+div.pricing h2{
+  text-align: center;
+}
+div.prices{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+    text-align: center;    
+}
+div.price{
+    width: 30%;
+    background-color: darkcyan;
+    color: white;
+    margin: 8px;
+   
+}
+div.price button{
+    padding: 18px;
+    border-radius: 8px;
+    background-color: transparent;
+    color: white;
+    border:2px solid white;
+    margin-bottom:10px;
+}
+div.planprice{
+
+    background-color:blueviolet;
+}
+div.planprice h3{
+margin: 0px;
+}
+div.joinform{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin: 123px;
+   border:1px solid red;
+    border-radius: 8px;
+    border-right-color: aqua;
+      
+}
+ div.imga{
+    width:30%; 
+}
+div.imga{
+    background-image: url('sceneryphoto.jpg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    height: 400px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+div.form{
+    width: 70%;
+    margin-left: 100px;
+        
+}
+form input ,button{
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid aqua;
+    border-radius: 8px;
+    display: block;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    
+        
+}
+form button{
+    background-color: aquamarine;
+    color: white;
+    margin-top: 16px;
+}
