@@ -17,7 +17,7 @@ div.nav img {
     
     
 }
-*{font-size:27px;}
+
 input{
     background-color: transparent;
     border-color:blue ;
@@ -305,9 +305,7 @@ div.detailsx p{
     
 }
 
-*{
-  font-size: 18px; 
-}
+
 h2.e3{
  
     color:darkblue;
@@ -387,3 +385,11 @@ div.htextz{height: 325px;}
 div.c3{height: 490px;}
 div.c3 p{margin-left: 14px;}
 h5.in{margin-left: 7px;}
+h1.hello{font-size: 97px;}
+div.index1 p {font-size: 45px;}
+div.index1 button{padding-left: 50px; padding:10px;
+}
+div.nav2 a{font-size: 19px;
+
+
+}
