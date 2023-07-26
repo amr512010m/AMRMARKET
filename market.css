@@ -198,7 +198,7 @@ button.cartbu{
     border-radius: 5px;
     border-bottom-color: aqua;
     border-top-color: blueviolet;
-    margin-left: 223px;
+      
 }
 h4.pz{
     color: gold;
@@ -382,7 +382,7 @@ h4.h2{margin-left: 36px;
 margin-right: 45px;}
 h4.home,a.cat1{margin: 9px;}
 div.htextz{height: 325px;}
-div.c3{height: 490px;}
+div.c3{height: 490px; width:420px; margin: auto; margin: 90px;}
 div.c3 p{margin-left: 14px;}
 h5.in{margin-left: 7px;}
 h1.hello{font-size: 97px;}
@@ -393,3 +393,5 @@ div.nav2 a{font-size: 19px;
 
 
 }
+button.btny{background-color:aqua;border: none; }
+div.amrx{ margin: 5px;   }
